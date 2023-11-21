@@ -4,5 +4,6 @@ public class Main {
     public static void main(String[] args) {
         Animal animal = new Animal("i don't know",4);
         Animal pikachu = new Animal("iron",1);
+        Animal donkey = new Animal("gray",4);
     }
 }
